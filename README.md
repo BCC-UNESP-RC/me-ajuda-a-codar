@@ -1,7 +1,5 @@
 ## 🖥️ Me Ajuda a Codar
 
-📌 **Espaço colaborativo para alunos de BCC da UNESP Rio Claro discutirem programação, tirarem dúvidas e compartilharem conhecimento.** 🚀
-
 ### 📌 Sobre o Repositório
 Este repositório foi criado para incentivar a troca de conhecimento entre alunos e entusiastas da programação. Aqui, você pode:
 
